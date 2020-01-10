@@ -2,7 +2,7 @@
 // <copyright file= "EntityBase.cs">
 //     Copyright (c) Danvic712. All rights reserved.
 // </copyright>
-// Author: Danvic712
+// Author: Danvic712 123
 // Created DateTime: 2019/1/7 20:05:46 
 // Modified by:
 // Description: 泛型实体基类
